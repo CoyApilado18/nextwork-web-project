@@ -4,7 +4,7 @@
     <title>Thank You!! Done with 7 Days DevOps Challenge</title>
 </head>
 <body>
-    <h1>CatPhotoApp</h1>
+    <h1>Thank You!! Done with 7 Days DevOps Challenge</h1>
     <main>
       <section>
         <h2>Cat Photos</h2>
