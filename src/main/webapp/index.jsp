@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>CatPhotoApp</title>
+    <title>Thank You!! Done with 7 Days DevOps Challenge</title>
 </head>
 <body>
     <h1>CatPhotoApp</h1>
