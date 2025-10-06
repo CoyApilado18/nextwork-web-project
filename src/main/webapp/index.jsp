@@ -1,9 +1,10 @@
 
 <body>
 
-<h2> Day 7 Success!! </h2>
+<h2> Day 7 Success Page!! </h2>
 
-<p>Day7 Success page!! Woohoo!! </p>    
+<p> If you see this line, that means your latest changes are automatically deployed into production by CodePipeline!
+</p>    
 
 </body>
 
